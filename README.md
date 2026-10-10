@@ -1,6 +1,6 @@
 # Hi there, I'm Ethanhok 👋 
 
-I am a **Computer Science Student** passionate about software engineering, system architecture, and building efficient, clean code. I love diving into how systems work under the hood, from high-level object-oriented design down to low-level assembly logic.
+I am a **Software Engineering Student** passionate about software engineering, system architecture, and building efficient, clean code. I love diving into how systems work under the hood, from high-level object-oriented design down to low-level assembly logic.
 
 ---
 
