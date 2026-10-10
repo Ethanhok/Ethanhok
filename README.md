@@ -6,10 +6,9 @@ I am a **Computer Science Student** passionate about software engineering, syste
 
 ### 🚀 About Me
 
-- 🎓 Currently pursuing my degree in Computer Science / Engineering.
-- 🛠️ Deeply interested in **Software Engineering**, **System Architecture**, and **Full-Stack Development**.
-- 🔍 Lately, I've been working on low-level computing (MIPS Assembly), object-oriented programming, and system modeling (UML).
-- ⚡ Fun fact: When I'm not debugging code, I'm probably experimenting in the kitchen trying to perfect my pasta recipes. 🍝
+- 🎓 Currently pursuing my degree in Sofeware Engineering.
+- 🛠️ Deeply interested in **Software Engineering**.
+  
 
 ---
 
@@ -17,25 +16,12 @@ I am a **Computer Science Student** passionate about software engineering, syste
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, C++, Python, MIPS Assembly |
+| **Languages** | Java, C, C++ |
 | **Design & Modeling** | UML (Use Case, Class, Sequence Diagrams) |
-| **Tools & Platforms** | Git, GitHub, VS Code, MARS (MIPS Simulator) |
+| **Tools & Platforms** | Git, GitHub, VS Code, Visual Studio  |
 
----
 
-### 📂 Featured Projects
 
-#### 🔐 [Basic Password Authentication System](https://github.com/yourusername/your-repo)
-*A low-level security implementation written in MIPS Assembly.*
-* Handles user input, string comparison, and conditional control flow at the architecture level.
-* Optimized register allocation and simulated using MARS.
-
-#### 🚌 [Bus Information & Logistics System](https://github.com/yourusername/your-repo)
-*A conceptual software engineering project focused on system design.*
-* Designed comprehensive UML models for tracking Bus Schedules, Population, and Live Locations.
-* Implemented core object-oriented structures in Java.
-
----
 
 ### 📊 GitHub Stats
 
@@ -48,7 +34,6 @@ I am a **Computer Science Student** passionate about software engineering, syste
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:**
 * **Email:** w96243177@gmail.com
 
 "The best way to predict the future is to invent it." 💻
